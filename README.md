@@ -1,2 +1,2 @@
 # GifEditor
-convert from video to git format
+convert video to git format
